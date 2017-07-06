@@ -1,2 +1,4 @@
 # hello-world
-The root/base of this repository
+Welcome to my repository,
+
+This is the root/base of this repository
